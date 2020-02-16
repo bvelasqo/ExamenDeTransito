@@ -1,0 +1,56 @@
+C:\Users\Maria Camila\Desktop\PuebaTransito\PruebaDeTransito\PruebaDeTransito\bin\Debug\PruebaDeTransito.exe.config
+C:\Users\Maria Camila\Desktop\PuebaTransito\PruebaDeTransito\PruebaDeTransito\bin\Debug\PruebaDeTransito.exe
+C:\Users\Maria Camila\Desktop\PuebaTransito\PruebaDeTransito\PruebaDeTransito\bin\Debug\PruebaDeTransito.pdb
+C:\Users\Maria Camila\Desktop\PuebaTransito\PruebaDeTransito\PruebaDeTransito\obj\Debug\PruebaDeTransito.csprojAssemblyReference.cache
+C:\Users\Maria Camila\Desktop\PuebaTransito\PruebaDeTransito\PruebaDeTransito\obj\Debug\PruebaDeTransito.Form1.resources
+C:\Users\Maria Camila\Desktop\PuebaTransito\PruebaDeTransito\PruebaDeTransito\obj\Debug\PruebaDeTransito.Properties.Resources.resources
+C:\Users\Maria Camila\Desktop\PuebaTransito\PruebaDeTransito\PruebaDeTransito\obj\Debug\PruebaDeTransito.prueba.resources
+C:\Users\Maria Camila\Desktop\PuebaTransito\PruebaDeTransito\PruebaDeTransito\obj\Debug\PruebaDeTransito.csproj.GenerateResource.cache
+C:\Users\Maria Camila\Desktop\PuebaTransito\PruebaDeTransito\PruebaDeTransito\obj\Debug\PruebaDeTransito.csproj.CoreCompileInputs.cache
+C:\Users\Maria Camila\Desktop\PuebaTransito\PruebaDeTransito\PruebaDeTransito\obj\Debug\PruebaDeTransito.exe
+C:\Users\Maria Camila\Desktop\PuebaTransito\PruebaDeTransito\PruebaDeTransito\obj\Debug\PruebaDeTransito.pdb
+C:\Users\Maria Camila\Desktop\PuebaTransito\PruebaDeTransito\PruebaDeTransito\obj\Debug\PruebaDeTransito.Registro.resources
+C:\Users\Maria Camila\Desktop\PuebaTransito\PruebaDeTransito\PruebaDeTransito\obj\Debug\PruebaDeTransito.Administrador.resources
+C:\Users\Maria Camila\Desktop\bvo\PuebaTransito\PruebaDeTransito\PruebaDeTransito\bin\Debug\PruebaDeTransito.exe.config
+C:\Users\Maria Camila\Desktop\bvo\PuebaTransito\PruebaDeTransito\PruebaDeTransito\bin\Debug\PruebaDeTransito.exe
+C:\Users\Maria Camila\Desktop\bvo\PuebaTransito\PruebaDeTransito\PruebaDeTransito\bin\Debug\PruebaDeTransito.pdb
+C:\Users\Maria Camila\Desktop\bvo\PuebaTransito\PruebaDeTransito\PruebaDeTransito\obj\Debug\PruebaDeTransito.csprojAssemblyReference.cache
+C:\Users\Maria Camila\Desktop\bvo\PuebaTransito\PruebaDeTransito\PruebaDeTransito\obj\Debug\PruebaDeTransito.Administrador.resources
+C:\Users\Maria Camila\Desktop\bvo\PuebaTransito\PruebaDeTransito\PruebaDeTransito\obj\Debug\PruebaDeTransito.Form1.resources
+C:\Users\Maria Camila\Desktop\bvo\PuebaTransito\PruebaDeTransito\PruebaDeTransito\obj\Debug\PruebaDeTransito.Properties.Resources.resources
+C:\Users\Maria Camila\Desktop\bvo\PuebaTransito\PruebaDeTransito\PruebaDeTransito\obj\Debug\PruebaDeTransito.prueba.resources
+C:\Users\Maria Camila\Desktop\bvo\PuebaTransito\PruebaDeTransito\PruebaDeTransito\obj\Debug\PruebaDeTransito.Registro.resources
+C:\Users\Maria Camila\Desktop\bvo\PuebaTransito\PruebaDeTransito\PruebaDeTransito\obj\Debug\PruebaDeTransito.csproj.GenerateResource.cache
+C:\Users\Maria Camila\Desktop\bvo\PuebaTransito\PruebaDeTransito\PruebaDeTransito\obj\Debug\PruebaDeTransito.csproj.CoreCompileInputs.cache
+C:\Users\Maria Camila\Desktop\bvo\PuebaTransito\PruebaDeTransito\PruebaDeTransito\obj\Debug\PruebaDeTransito.exe
+C:\Users\Maria Camila\Desktop\bvo\PuebaTransito\PruebaDeTransito\PruebaDeTransito\obj\Debug\PruebaDeTransito.pdb
+C:\Users\Maria Camila\Desktop\bvo\PuebaTransito\PruebaDeTransito\PruebaDeTransito\obj\Debug\PruebaDeTransito.GestionDePreguntas.resources
+C:\Users\Maria Camila\Desktop\bvo\PuebaTransito\PruebaDeTransito\PruebaDeTransito\obj\Debug\PruebaDeTransito.Acceso.resources
+C:\Users\s112e1\Desktop\BVO\PuebaTransito\PruebaDeTransito\PruebaDeTransito\bin\Debug\PruebaDeTransito.exe.config
+C:\Users\s112e1\Desktop\BVO\PuebaTransito\PruebaDeTransito\PruebaDeTransito\bin\Debug\PruebaDeTransito.exe
+C:\Users\s112e1\Desktop\BVO\PuebaTransito\PruebaDeTransito\PruebaDeTransito\bin\Debug\PruebaDeTransito.pdb
+C:\Users\s112e1\Desktop\BVO\PuebaTransito\PruebaDeTransito\PruebaDeTransito\obj\Debug\PruebaDeTransito.csprojResolveAssemblyReference.cache
+C:\Users\s112e1\Desktop\BVO\PuebaTransito\PruebaDeTransito\PruebaDeTransito\obj\Debug\PruebaDeTransito.Acceso.resources
+C:\Users\s112e1\Desktop\BVO\PuebaTransito\PruebaDeTransito\PruebaDeTransito\obj\Debug\PruebaDeTransito.Administrador.resources
+C:\Users\s112e1\Desktop\BVO\PuebaTransito\PruebaDeTransito\PruebaDeTransito\obj\Debug\PruebaDeTransito.Form1.resources
+C:\Users\s112e1\Desktop\BVO\PuebaTransito\PruebaDeTransito\PruebaDeTransito\obj\Debug\PruebaDeTransito.GestionDePreguntas.resources
+C:\Users\s112e1\Desktop\BVO\PuebaTransito\PruebaDeTransito\PruebaDeTransito\obj\Debug\PruebaDeTransito.Properties.Resources.resources
+C:\Users\s112e1\Desktop\BVO\PuebaTransito\PruebaDeTransito\PruebaDeTransito\obj\Debug\PruebaDeTransito.prueba.resources
+C:\Users\s112e1\Desktop\BVO\PuebaTransito\PruebaDeTransito\PruebaDeTransito\obj\Debug\PruebaDeTransito.Registro.resources
+C:\Users\s112e1\Desktop\BVO\PuebaTransito\PruebaDeTransito\PruebaDeTransito\obj\Debug\PruebaDeTransito.csproj.GenerateResource.Cache
+C:\Users\s112e1\Desktop\BVO\PuebaTransito\PruebaDeTransito\PruebaDeTransito\obj\Debug\PruebaDeTransito.exe
+C:\Users\s112e1\Desktop\BVO\PuebaTransito\PruebaDeTransito\PruebaDeTransito\obj\Debug\PruebaDeTransito.pdb
+C:\Users\Brandon Velasquez\Desktop\Brandon\UNIVERSIDAD\Segundo semestre\PuebaTransito\PruebaDeTransito\PruebaDeTransito\bin\Debug\PruebaDeTransito.exe.config
+C:\Users\Brandon Velasquez\Desktop\Brandon\UNIVERSIDAD\Segundo semestre\PuebaTransito\PruebaDeTransito\PruebaDeTransito\bin\Debug\PruebaDeTransito.exe
+C:\Users\Brandon Velasquez\Desktop\Brandon\UNIVERSIDAD\Segundo semestre\PuebaTransito\PruebaDeTransito\PruebaDeTransito\bin\Debug\PruebaDeTransito.pdb
+C:\Users\Brandon Velasquez\Desktop\Brandon\UNIVERSIDAD\Segundo semestre\PuebaTransito\PruebaDeTransito\PruebaDeTransito\obj\Debug\PruebaDeTransito.csprojAssemblyReference.cache
+C:\Users\Brandon Velasquez\Desktop\Brandon\UNIVERSIDAD\Segundo semestre\PuebaTransito\PruebaDeTransito\PruebaDeTransito\obj\Debug\PruebaDeTransito.Acceso.resources
+C:\Users\Brandon Velasquez\Desktop\Brandon\UNIVERSIDAD\Segundo semestre\PuebaTransito\PruebaDeTransito\PruebaDeTransito\obj\Debug\PruebaDeTransito.Administrador.resources
+C:\Users\Brandon Velasquez\Desktop\Brandon\UNIVERSIDAD\Segundo semestre\PuebaTransito\PruebaDeTransito\PruebaDeTransito\obj\Debug\PruebaDeTransito.Form1.resources
+C:\Users\Brandon Velasquez\Desktop\Brandon\UNIVERSIDAD\Segundo semestre\PuebaTransito\PruebaDeTransito\PruebaDeTransito\obj\Debug\PruebaDeTransito.GestionDePreguntas.resources
+C:\Users\Brandon Velasquez\Desktop\Brandon\UNIVERSIDAD\Segundo semestre\PuebaTransito\PruebaDeTransito\PruebaDeTransito\obj\Debug\PruebaDeTransito.Properties.Resources.resources
+C:\Users\Brandon Velasquez\Desktop\Brandon\UNIVERSIDAD\Segundo semestre\PuebaTransito\PruebaDeTransito\PruebaDeTransito\obj\Debug\PruebaDeTransito.prueba.resources
+C:\Users\Brandon Velasquez\Desktop\Brandon\UNIVERSIDAD\Segundo semestre\PuebaTransito\PruebaDeTransito\PruebaDeTransito\obj\Debug\PruebaDeTransito.Registro.resources
+C:\Users\Brandon Velasquez\Desktop\Brandon\UNIVERSIDAD\Segundo semestre\PuebaTransito\PruebaDeTransito\PruebaDeTransito\obj\Debug\PruebaDeTransito.csproj.GenerateResource.cache
+C:\Users\Brandon Velasquez\Desktop\Brandon\UNIVERSIDAD\Segundo semestre\PuebaTransito\PruebaDeTransito\PruebaDeTransito\obj\Debug\PruebaDeTransito.exe
+C:\Users\Brandon Velasquez\Desktop\Brandon\UNIVERSIDAD\Segundo semestre\PuebaTransito\PruebaDeTransito\PruebaDeTransito\obj\Debug\PruebaDeTransito.pdb
